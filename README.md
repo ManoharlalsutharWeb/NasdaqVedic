@@ -1,0 +1,2 @@
+# NasdaqVedic
+NASDAQ VEDIC 
